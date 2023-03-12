@@ -47,3 +47,16 @@ const getWordEnd = (number, form1, form2, form3) => {
 };
 
 ```
+
+## Education
+
+**University:** 
+- Saint-Petersburg University of Humanities and Social Sciences, bachelor lawyer
+- Yugra State University, magistracy lawyer
+
+**Courses:** 
+- JS/FE Pre-School 2022Q2
+- HTML & CSS. Adaptive Website Coding and Automation HTML Academy.
+- JavaScript. Architecture of Front-end Applications HTML Academy.
+- React.Development of Complex Front-end Applications HTML Academy.
+- Profession “Front-end Developer” HTML Academy.
